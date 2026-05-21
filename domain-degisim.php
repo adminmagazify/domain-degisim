@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Domain Değişim
  * Description: Mağaza sahibi veya admin tarafından domain değişikliği talep edilmesini sağlar.
- * Version: 1.0
+ * Version: 2.0
  * Author: Magazac
 * GitHub Plugin URI: https://github.com/adminmagazify/domain-degisim
  */
